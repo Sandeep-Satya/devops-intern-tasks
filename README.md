@@ -1,7 +1,7 @@
 # strapi-local-setupTask 1 — Strapi: local setup, Admin, and sample content
 This document records the steps I followed to complete Task #1: getting Strapi running locally, creating a Blog Post content type in the Admin, adding a sample entry, verifying with the API, and preparing the work for GitHub.
 
-LOOM drive link :- https://drive.google.com/file/d/1jE8FMvseZeuPU2uWDM29XNVoQic4ZXyZ/view?usp=sharing
+LOOM drive link :- https://drive.google.com/file/d/1P6D219Gd8Xf8JBMbhphqbCXQ7LUxkaDh/view?usp=sharing
 ## Objective
 
 The goal of this task is to:
