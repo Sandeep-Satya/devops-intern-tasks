@@ -1,5 +1,7 @@
 AWS EC2 Deployment Using Terraform
 
+
+
 Project Overview
 
 This project demonstrates the understanding of AWS core services and Infrastructure as Code (IaC) using Terraform. It includes manual provisioning of an EC2 instance using the AWS Management Console and automated provisioning of an EC2 instance using Terraform. The objective is to gain hands-on experience with cloud infrastructure deployment and automation.
